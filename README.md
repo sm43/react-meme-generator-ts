@@ -1,4 +1,6 @@
 # Welcome to React Meme Generator 👋
+This is fork maintainer with some additional changes. This is used in a blog [here](https://sm43.medium.com/build-a-tekton-pipeline-for-openshift-part-1-8801369c6fc6?source=user_profile---------0----------------------------) for demoing the use of Tekton Pipelines with meme generator as an example.
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D11.0.0-blue.svg)
 ![Prerequisite](https://img.shields.io/badge/npm-%3E%3D6.0-blue.svg)
